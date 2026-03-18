@@ -6,7 +6,7 @@ A simple browser-based number guessing game.
 - User input validation
 - Dynamic feedback messages
 
-## Technologies Used
+## Languages Used
 - HTML
 - CSS
 - JavaScript
